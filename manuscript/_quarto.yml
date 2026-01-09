@@ -1,0 +1,12 @@
+project:
+  type: default
+  output-dir: _output
+
+format:
+  html:
+    toc: true
+    theme: cosmo
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=1in
