@@ -8,6 +8,7 @@ format:
     toc: true
     toc-depth: 2
     theme: cosmo
+    embed-resources: true
   pdf:
     documentclass: article
     geometry:
